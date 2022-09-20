@@ -39,6 +39,7 @@ public class Student {
             nullable = false,
             columnDefinition = "Text"
     )
+
     private String lastName;
     @Column(
             name = "email",
