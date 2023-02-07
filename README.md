@@ -1,4 +1,4 @@
-# spring-data-jpa-course
+# spring-data-jpa
 
 ## Course Description
 
